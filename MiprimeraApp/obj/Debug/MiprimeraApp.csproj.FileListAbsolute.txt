@@ -1,0 +1,7 @@
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\bin\Debug\MiprimeraApp.exe.config
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\bin\Debug\MiprimeraApp.exe
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\bin\Debug\MiprimeraApp.pdb
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\obj\Debug\MiprimeraApp.csproj.AssemblyReference.cache
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\obj\Debug\MiprimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\obj\Debug\MiprimeraApp.exe
+C:\Users\joan.cardona\Documents\Santi Progra\MiprimeraApp\MiprimeraApp\obj\Debug\MiprimeraApp.pdb
